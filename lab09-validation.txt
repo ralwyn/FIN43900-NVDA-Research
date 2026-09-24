@@ -1,0 +1,9 @@
+PASS: all supplied FY2026E and FY2030E benchmarks match to one decimal.
+PASS: five annual balance, cash reconciliation, cash minimum and revolver checks.
+PASS: value per share matches $291.75.
+PASS: deliberately setting FY2026E cash to 40.4 prevents valuation.
+
+Observed error:
+ValueError: FY2026E: assets minus liabilities minus equity gap -61.4; valuation refused
+
+This is an automated check, not evidence of a human partner swap.
