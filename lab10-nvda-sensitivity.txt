@@ -1,0 +1,6 @@
+Same statements; value/share at required return and terminal growth:
+Cost of equity       2%         3%         4%
+         10%     174.66     193.59     218.82
+         12%     137.87     148.73     162.30
+         14%     113.49     120.32     128.52
+All annual gross margins 2 percentage points lower: $143.41/share
