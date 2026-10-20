@@ -1,3 +1,6 @@
+# Public project copy
+Personal test records and the detailed course-only validation record are withheld from this public copy. Student reports a TA-approved exception. This repository is not the complete grading submission.
+
 # NVIDIA decision workbench | FIN439 Project 1
 
 **Proposed action: watch/defer initiation.** The fund owns no position. Valuation date: **September 24, 2026 close**; preparation date: October 19. USD common shares; five forecast periods through FY2031, starting with the remaining FY2027 stub.
@@ -30,7 +33,7 @@ Open **http://127.0.0.1:8439/**. Change a bounded driver and press Recalculate. 
 
 `app.py`: local bounded driver workbench around the same engine. Controls expose growth and gross-margin shifts, required equity return and terminal growth. WACC is calculated, not mislabeled as cost of equity.
 
-`locked_test.py`: student-operated two-stage prediction/execution record. It has not been run by the agent for the student's fresh scenario. `docs/` contains content-equivalent written records and recording preparation notes. Preparation notes are not transcripts of completed videos. `prior-labs/` preserves recovered historical work with its original caveats.
+`locked_test.py`: student-operated two-stage prediction/execution record. It has not been run by the agent for the student's fresh scenario. `docs/` contains content-equivalent written public summary records and recording preparation notes. Preparation notes are not transcripts of completed videos. `prior-labs/` preserves recovered historical work with its original caveats.
 
 ## Accounting and valuation conventions
 

@@ -1,9 +1,9 @@
 item,required,location_or_url,title,duration_or_as_of,timestamp_index,access_checked,frozen_or_commit_id,notes
-Research-Evolution.pdf,yes,Research-Evolution.pdf,Research evolution,2026-10-19,,Public checkout downloaded and run successfully 2026-10-19 ~22:11 EDT,8392ba7220b7d8edd9b7f37b6360affa315560ee,Local artifact provenance disclosed
-Repository,yes,https://github.com/ralwyn/FIN43900-NVDA-Research,Project 1 repository,,,Public checkout downloaded and run successfully 2026-10-19 ~22:11 EDT,8392ba7220b7d8edd9b7f37b6360affa315560ee,"Code, outputs, PDFs, equivalent docs and prior-lab evidence uploaded; personal test/videos/transcripts still pending"
-Visible executed output,yes,visible-output.md / visible-output.json,Executed model,2026-09-24 valuation,,Public checkout downloaded and run successfully 2026-10-19 ~22:11 EDT,8392ba7220b7d8edd9b7f37b6360affa315560ee,
-Decision memo,yes,Decision-Memo.pdf,Committee memo,2 pages target,,Public checkout downloaded and run successfully 2026-10-19 ~22:11 EDT,8392ba7220b7d8edd9b7f37b6360affa315560ee,
-Validation-and-AI-Use.pdf,yes,Validation-and-AI-Use.pdf,Validation and separate AI disclosure,2026-10-19,,Public checkout downloaded and run successfully 2026-10-19 ~22:11 EDT,8392ba7220b7d8edd9b7f37b6360affa315560ee,Student locked record pending unless included
+Research-Evolution.pdf,yes,Research-Evolution.pdf,Research evolution,2026-10-19,,Public code checkout verified; revised public summaries prepared October 19,See GitHub commit history; final videos pending,Local artifact provenance disclosed
+Repository,yes,https://github.com/ralwyn/FIN43900-NVDA-Research,Project 1 repository,,,Public code checkout verified; revised public summaries prepared October 19,See GitHub commit history; final videos pending,Public copy; personal test evidence and detailed validation reserved for course submission
+Visible executed output,yes,visible-output.md / visible-output.json,Executed model,2026-09-24 valuation,,Public code checkout verified; revised public summaries prepared October 19,See GitHub commit history; final videos pending,
+Decision memo,yes,Decision-Memo.pdf,Committee memo,2 pages target,,Public code checkout verified; revised public summaries prepared October 19,See GitHub commit history; final videos pending,
+Validation-and-AI-Use.pdf,yes,Validation-and-AI-Use.pdf,Validation and separate AI disclosure,2026-10-19,,Public code checkout verified; revised public summaries prepared October 19,See GitHub commit history; final videos pending,Public summary; student reports a TA-approved exception; detailed record reserved for course review
 Video 1,yes,,,,,not yet checked,,Actual recording URL/duration/timestamps required
 Transcript Video 1,yes,,,,,not yet checked,,Correct actual recording; preparation notes are not transcripts
 Video 2,yes,,,,,not yet checked,,Actual recording URL/duration/timestamps required
