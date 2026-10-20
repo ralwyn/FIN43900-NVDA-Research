@@ -1,3 +1,3 @@
-# Preserved test attempt
+# Course-only personal evidence
 
-Original October 19 files and source snapshots remain unchanged. The prediction addressed an inventory example rather than the private-haircut scenario; reconciliation wording was AI-assisted. This attempt does not satisfy the independent AI-off prediction requirement. See the separate validation record.
+Student reports a TA-approved exception. Personal prediction and execution records are withheld from this public repository. The detailed record is reserved for course review. This public index does not certify independent AI-off completion.
