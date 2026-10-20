@@ -1,0 +1,6 @@
+Public unauthenticated shallow clone succeeded.
+Verified commit: 8392ba7220b7d8edd9b7f37b6360affa315560ee
+Every prepared project file except the evolving manifest/hash ledger matched byte-for-byte before this freeze.
+python3 analysis.py exited 0; all published accounting, valuation, monotonicity, guard and restoration checks passed.
+Browser demo: base 157.96; growth shift +5pp 186.32; restored 157.96; injected $1m error blocked; restored 157.96.
+Agent-operated verification; distinct from required student locked-input exercise.
