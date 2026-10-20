@@ -1,0 +1,11 @@
+NEW REVERSE-DCF PREPARATION SUPPLEMENT — October 1, 2026
+Not a recovered Week 3 result. No new market quote used.
+Saved September 24 reference: $224.20/share.
+Uniform growth shift: +12.894638 percentage points in each FY2027–FY2031.
+Implied annual growth (%): 100.280369, 47.894638, 37.894638, 27.894638, 20.894638
+Recomputed value: $224.20000000/share.
+Held fixed: every other independent Lab 10 input, including gross-margin path, taxes, investment ratios, 12% cost of equity, 3% terminal growth, and 24,100m shares.
+FY2031 revenue: $1,363,724.50m; FCFE: $567,627.73m.
+PASS: all five years; target within $0.00000001/share; base restored
+Interpretation: one conditional path that matches the reference price; not the unique expectations embedded in the stock.
+Limitation: annual discounting anchor and saved quote date differ. FY2027 shift changes full-year revenue despite some actual months being known.
