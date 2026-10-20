@@ -1,0 +1,12 @@
+PASS: Published synthetic FCFF 77.5m and enterprise-equity result $8.20/share.
+PASS: Q2 reported assets and liabilities match the primary release.
+PASS: All five future periods reconcile BS, cash, equity, productive assets, income, financing and FCFF.
+PASS: Elapsed July-to-September flows excluded; estimated valuation-date bridge separate.
+PASS: WACC and terminal-growth monotonicity over tested grid.
+PASS: Additional inventory investment reduces first-period FCFF.
+PASS: Diluted denominator doubles -> per-share value halves; basic market-cap weight unchanged.
+PASS: cash corruption refused: FY2027 balance sheet: gap 1.000000; valuation refused
+PASS: funding shortfall refused: Cash below liquidity floor; no invented borrowing facility.
+PASS: invalid terminal refused: Invalid terminal growth or tax rate.
+PASS: Peer EV identities and positive annual denominators.
+PASS: Restored base exactly matches before automated tests. These are AI-run tests, not the student locked record.

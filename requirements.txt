@@ -1,0 +1,2 @@
+# Python 3.9+ standard library only. No pip packages needed for the submitted app.
+# PDF generation was a preparation step; the final PDFs are already included.

@@ -1,0 +1,13 @@
+item,required,location_or_url,title,duration_or_as_of,timestamp_index,access_checked,frozen_or_commit_id,notes
+Research-Evolution.pdf,yes,Research-Evolution.pdf,Research evolution,2026-10-19,,local file verified,pending commit,Local artifact provenance disclosed
+Repository,yes,https://github.com/ralwyn/FIN43900-NVDA-Research,Project 1 repository,,,existing repo is public,pending update,Project files not yet uploaded
+Visible executed output,yes,visible-output.md / visible-output.json,Executed model,2026-09-24 valuation,,local files verified,pending commit,
+Decision memo,yes,Decision-Memo.pdf,Committee memo,2 pages target,,local file verified,pending commit,
+Validation-and-AI-Use.pdf,yes,Validation-and-AI-Use.pdf,Validation and separate AI disclosure,2026-10-19,,local file verified,pending commit,Student locked record pending unless included
+Video 1,yes,,,,,not yet checked,,Actual recording URL/duration/timestamps required
+Transcript Video 1,yes,,,,,not yet checked,,Correct actual recording; preparation notes are not transcripts
+Video 2,yes,,,,,not yet checked,,Actual recording URL/duration/timestamps required
+Transcript Video 2,yes,,,,,not yet checked,,Correct actual recording; preparation notes are not transcripts
+Video 3,yes,,,,,not yet checked,,Actual recording URL/duration/timestamps required
+Transcript Video 3,yes,,,,,not yet checked,,Correct actual recording; preparation notes are not transcripts
+Optional deployed output,no,,,,,,,Local workbench satisfies runtime route
