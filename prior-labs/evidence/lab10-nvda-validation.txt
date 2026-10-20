@@ -1,0 +1,14 @@
+PASS: source-labelled inputs and all five years of statements reconcile.
+PASS: FY2027 revenue and net income independently recomputed.
+PASS: cash corruption blocked: FY2027E: balance sheet gap 1.000000; valuation refused
+PASS: equity corruption blocked: FY2027E: balance sheet gap -1.000000; valuation refused
+PASS: PP&E corruption blocked: FY2027E: balance sheet gap 1.000000; valuation refused
+PASS: cash-flow corruption blocked: FY2027E: cash reconciliation gap -1.000000; valuation refused
+PASS: frozen opening cash blocked: FY2027E: balance sheet gap -149,306.591691; valuation refused
+PASS: NaN cannot bypass the balance check.
+PASS: unfunded cash shortfall blocked with no invented credit facility.
+PASS: discount rate equal to growth blocked.
+PASS: higher required return lowers value for unchanged statements.
+PASS: additional inventory investment reduces cash flow and still balances.
+PASS: terminal FCFE explicitly funds 3% growth in productive assets and working capital.
+AI validation and filing checks only; no student manual verification or human partner review is claimed.

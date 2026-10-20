@@ -1,0 +1,10 @@
+PASS: original Lab 10 engine preserved byte-for-byte.
+PASS: independent compounded revenue, final-year operating profit, and all differences: Revenue growth — Lower
+PASS: independent compounded revenue, final-year operating profit, and all differences: Revenue growth — Base
+PASS: independent compounded revenue, final-year operating profit, and all differences: Revenue growth — Higher
+PASS: independent compounded revenue, final-year operating profit, and all differences: Gross margin — Lower
+PASS: independent compounded revenue, final-year operating profit, and all differences: Gross margin — Base
+PASS: independent compounded revenue, final-year operating profit, and all differences: Gross margin — Higher
+PASS: higher-margin operating-profit gain and FCFE bridge independently reconcile.
+PASS: all six output spans recomputed from valid lower/base/higher results.
+Dashboard browser preview unavailable: local file URL was blocked by browser policy. No visual QA claimed.

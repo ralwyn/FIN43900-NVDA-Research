@@ -1,0 +1,190 @@
+NVIDIA LAB 11 — ONE-AT-A-TIME SENSITIVITY
+USD millions, except USD/share. Final year: FY2031. Cash flow: FCFE.
+Judgment ranges: growth +/-5 pp; gross margin +/-2 pp; every FY2027–FY2031.
+Ranges are AI-proposed and require student review; no probability is implied.
+Original Lab 10 inputs and valuation convention retained; no refreshed market data.
+
+Base before
+Changed independent keys: []
+Growth FY2027–31 (%): 87.385731, 35.000000, 25.000000, 15.000000, 8.000000
+Gross margin FY2027–31 (%): 74.000000, 73.000000, 72.000000, 71.000000, 70.000000
+CHECK BLOCK — USD millions; tolerance 0.000001
+FY2027E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2028E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2029E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2030E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2031E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+PASS: all eight reconciliation checks, finite values, asset/debt signs, cash floor and revolver limits.
+
+operating_income: 474,070.331958
+fcfe: 369,563.869049
+per_share: 148.729045
+
+Revenue growth — Lower
+Changed independent keys: ['growth']
+Growth FY2027–31 (%): 82.385731, 30.000000, 20.000000, 10.000000, 3.000000
+Gross margin FY2027–31 (%): 74.000000, 73.000000, 72.000000, 71.000000, 70.000000
+CHECK BLOCK — USD millions; tolerance 0.000001
+FY2027E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2028E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2029E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2030E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2031E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+PASS: all eight reconciliation checks, finite values, asset/debt signs, cash floor and revolver limits.
+
+operating_income: 389,122.415471
+  signed change from base: -84,947.916487
+fcfe: 309,653.431107
+  signed change from base: -59,910.437942
+per_share: 126.106423
+  signed change from base: -22.622623
+
+Revenue growth — Base
+Changed independent keys: []
+Growth FY2027–31 (%): 87.385731, 35.000000, 25.000000, 15.000000, 8.000000
+Gross margin FY2027–31 (%): 74.000000, 73.000000, 72.000000, 71.000000, 70.000000
+CHECK BLOCK — USD millions; tolerance 0.000001
+FY2027E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2028E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2029E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2030E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2031E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+PASS: all eight reconciliation checks, finite values, asset/debt signs, cash floor and revolver limits.
+
+operating_income: 474,070.331958
+  signed change from base: +0.000000
+fcfe: 369,563.869049
+  signed change from base: +0.000000
+per_share: 148.729045
+  signed change from base: +0.000000
+
+Revenue growth — Higher
+Changed independent keys: ['growth']
+Growth FY2027–31 (%): 92.385731, 40.000000, 30.000000, 20.000000, 13.000000
+Gross margin FY2027–31 (%): 74.000000, 73.000000, 72.000000, 71.000000, 70.000000
+CHECK BLOCK — USD millions; tolerance 0.000001
+FY2027E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2028E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2029E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2030E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2031E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+PASS: all eight reconciliation checks, finite values, asset/debt signs, cash floor and revolver limits.
+
+operating_income: 573,119.015443
+  signed change from base: +99,048.683485
+fcfe: 438,404.479587
+  signed change from base: +68,840.610537
+per_share: 174.850212
+  signed change from base: +26.121167
+
+Gross margin — Lower
+Changed independent keys: ['gross_margin']
+Growth FY2027–31 (%): 87.385731, 35.000000, 25.000000, 15.000000, 8.000000
+Gross margin FY2027–31 (%): 72.000000, 71.000000, 70.000000, 69.000000, 68.000000
+CHECK BLOCK — USD millions; tolerance 0.000001
+FY2027E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2028E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2029E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2030E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2031E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+PASS: all eight reconciliation checks, finite values, asset/debt signs, cash floor and revolver limits.
+
+operating_income: 457,617.801654
+  signed change from base: -16,452.530304
+fcfe: 355,675.169131
+  signed change from base: -13,888.699918
+per_share: 143.406795
+  signed change from base: -5.322251
+
+Gross margin — Base
+Changed independent keys: []
+Growth FY2027–31 (%): 87.385731, 35.000000, 25.000000, 15.000000, 8.000000
+Gross margin FY2027–31 (%): 74.000000, 73.000000, 72.000000, 71.000000, 70.000000
+CHECK BLOCK — USD millions; tolerance 0.000001
+FY2027E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2028E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2029E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2030E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2031E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+PASS: all eight reconciliation checks, finite values, asset/debt signs, cash floor and revolver limits.
+
+operating_income: 474,070.331958
+  signed change from base: +0.000000
+fcfe: 369,563.869049
+  signed change from base: +0.000000
+per_share: 148.729045
+  signed change from base: +0.000000
+
+Gross margin — Higher
+Changed independent keys: ['gross_margin']
+Growth FY2027–31 (%): 87.385731, 35.000000, 25.000000, 15.000000, 8.000000
+Gross margin FY2027–31 (%): 76.000000, 75.000000, 74.000000, 73.000000, 72.000000
+CHECK BLOCK — USD millions; tolerance 0.000001
+FY2027E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2028E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2029E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2030E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2031E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+PASS: all eight reconciliation checks, finite values, asset/debt signs, cash floor and revolver limits.
+
+operating_income: 490,522.862262
+  signed change from base: +16,452.530304
+fcfe: 383,452.568968
+  signed change from base: +13,888.699918
+per_share: 154.051296
+  signed change from base: +5.322251
+
+Base restored
+Changed independent keys: []
+Growth FY2027–31 (%): 87.385731, 35.000000, 25.000000, 15.000000, 8.000000
+Gross margin FY2027–31 (%): 74.000000, 73.000000, 72.000000, 71.000000, 70.000000
+CHECK BLOCK — USD millions; tolerance 0.000001
+FY2027E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2028E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2029E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2030E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2031E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+PASS: all eight reconciliation checks, finite values, asset/debt signs, cash floor and revolver limits.
+
+operating_income: 474,070.331958
+fcfe: 369,563.869049
+per_share: 148.729045
+
+SPANS (maximum minus minimum; invalid results excluded)
+{
+  "growth": {
+    "operating_income": {
+      "span": 183996.59997185983,
+      "valid_runs": 3,
+      "complete": true
+    },
+    "fcfe": {
+      "span": 128751.04847942712,
+      "valid_runs": 3,
+      "complete": true
+    },
+    "per_share": {
+      "span": 48.74378972278828,
+      "valid_runs": 3,
+      "complete": true
+    }
+  },
+  "gross_margin": {
+    "operating_income": {
+      "span": 32905.06060814997,
+      "valid_runs": 3,
+      "complete": true
+    },
+    "fcfe": {
+      "span": 27777.39983689849,
+      "valid_runs": 3,
+      "complete": true
+    },
+    "per_share": {
+      "span": 10.644501397890252,
+      "valid_runs": 3,
+      "complete": true
+    }
+  }
+}
+RESTORED BASE: PASS; all statement fields within 0.000001 USD million; inputs and valuation identical

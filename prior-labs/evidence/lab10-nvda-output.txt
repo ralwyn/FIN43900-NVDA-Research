@@ -1,0 +1,79 @@
+CHECK BLOCK — USD millions; tolerance 0.000001
+FY2027E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2028E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2029E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2030E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+FY2031E  BS gap=0.000000  cash gap=0.000000  cash floor=PASS  revolver=0.0
+PASS: all eight reconciliation checks, finite values, asset/debt signs, cash floor and revolver limits.
+
+INCOME STATEMENT (USD millions)
+Line                                     FY2027E        FY2028E        FY2029E        FY2030E        FY2031E
+Revenue                                404,637.0      546,260.0      682,824.9      785,248.7      848,068.6
+Cost of revenue                        105,205.6      147,490.2      191,191.0      227,722.1      254,420.6
+Gross profit                           299,431.4      398,769.8      491,634.0      557,526.6      593,648.0
+SG&A                                     7,485.8       10,766.8       14,257.4       16,725.8       17,809.4
+Research and development                32,371.0       49,163.4       68,282.5       86,377.4      101,768.2
+Operating income                       259,574.6      338,839.6      409,094.1      454,423.4      474,070.3
+Interest expense                           259.0          259.0          259.0          259.0          259.0
+Pretax income                          259,315.6      338,580.6      408,835.1      454,164.4      473,811.3
+Income taxes                            44,083.7       57,558.7       69,502.0       77,207.9       80,547.9
+Net income                             215,232.0      281,021.9      339,333.1      376,956.5      393,263.4
+
+BALANCE SHEET (USD millions)
+Line                                     FY2027E        FY2028E        FY2029E        FY2030E        FY2031E
+Cash                                   159,911.6      382,053.2      661,255.3      983,077.7    1,328,541.6
+Marketable securities                   51,951.0       51,951.0       51,951.0       51,951.0       51,951.0
+Accounts receivable                     72,079.8       97,307.7      121,634.7      139,879.9      151,070.2
+Inventory                               36,041.9       50,527.9       65,499.2       78,014.2       87,160.7
+Prepaid / other current assets           5,958.9        8,044.5       10,055.6       11,563.9       12,489.0
+PP&E, net                               19,757.9       31,087.1       43,771.6       56,504.7       68,122.6
+Intangibles, net                         2,747.2        2,471.8        2,396.3        2,434.0        2,517.7
+Private equity investments              22,251.0       22,251.0       22,251.0       22,251.0       22,251.0
+Other noncurrent assets                 45,258.0       45,258.0       45,258.0       45,258.0       45,258.0
+Total assets                           415,957.2      690,952.2    1,024,072.6    1,390,934.3    1,769,361.8
+Accounts payable                        16,523.0       23,164.0       30,027.5       35,764.9       39,958.0
+Accrued current liabilities             32,663.2       44,095.3       55,119.2       63,387.0       68,458.0
+Term debt                                8,468.0        8,468.0        8,468.0        8,468.0        8,468.0
+Revolver                                     0.0            0.0            0.0            0.0            0.0
+Other noncurrent liabilities             9,878.0        9,878.0        9,878.0        9,878.0        9,878.0
+Total liabilities                       67,532.3       85,605.4      103,492.6      117,497.9      126,762.0
+Equity                                 348,425.0      605,346.9      920,580.0    1,273,436.4    1,642,599.8
+
+CASH FLOW (USD millions)
+Line                                     FY2027E        FY2028E        FY2029E        FY2030E        FY2031E
+Net income                             215,232.0      281,021.9      339,333.1      376,956.5      393,263.4
+Depreciation addback                     2,400.0        4,567.0        7,185.7       10,117.7       13,060.9
+Amortization addback                       923.0          767.0          690.1          669.0          679.5
+Increase in receivables                 33,613.8       25,227.9       24,326.9       18,245.2       11,190.4
+Increase in inventory                   14,638.9       14,486.1       14,971.2       12,515.0        9,146.5
+Increase in prepaid assets               2,778.9        2,085.6        2,011.1        1,508.3          925.1
+Increase in payables                     6,711.0        6,641.0        6,863.4        5,737.4        4,193.1
+Increase in operating accruals          15,232.2       11,432.1       11,023.8        8,267.9        5,071.0
+Net WC investment (subtract)            29,088.3       23,726.5       23,422.0       18,263.3       11,997.9
+Operating cash flow                    189,466.7      262,629.4      323,786.9      369,479.9      395,005.9
+Capital spending (subtract)             12,139.1       16,387.8       20,484.7       23,557.5       25,442.1
+Purchase consideration (subtract)        3,921.0            0.0            0.0            0.0            0.0
+Investing cash flow                    -16,060.1      -16,387.8      -20,484.7      -23,557.5      -25,442.1
+Debt repayment (subtract)                    0.0            0.0            0.0            0.0            0.0
+Dividends (subtract)                    24,100.0       24,100.0       24,100.0       24,100.0       24,100.0
+Buybacks (subtract)                          0.0            0.0            0.0            0.0            0.0
+Net revolver borrowing                       0.0            0.0            0.0            0.0            0.0
+Financing cash flow                    -24,100.0      -24,100.0      -24,100.0      -24,100.0      -24,100.0
+Change in cash                         149,306.6      222,141.6      279,202.1      321,822.4      345,463.9
+Ending cash                            159,911.6      382,053.2      661,255.3      983,077.7    1,328,541.6
+FCFE before distributions              173,406.6      246,241.6      303,302.1      345,922.4      369,563.9
+
+VALUATION — annual teaching convention: discount 1–5 years to FY2026 end.
+Prepared with information available 2026-09-24; not a historical backtest or exact same-day DCF.
+pv_fcfe: 996,554.47 million
+pv_terminal: 2,513,571.28 million
+nonoperating: 74,244.25 million
+terminal_fcfe: 398,679.43 million
+terminal_net_capex: 2,119.21 million
+terminal_delta_nwc: 4,269.12 million
+equity: 3,584,369.99 million
+Terminal share of total equity value: 70.13%
+Share denominator: 24,100 million (24.1 billion)
+Value per share: $148.73
+Market reference: $224.20; 2026-09-24 2:05 PM EDT; FinancialContent, intraday.
+Comparison is a question about assumptions; annual valuation anchor differs from quote date.
