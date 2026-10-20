@@ -7,7 +7,7 @@ Preparation notes, not a transcript. Keep model.py, analysis.py, the app and val
 
 1:35-2:25: Explain July reported balances -> estimated September balances -> future cash flows. Show WACC weights and the operating EV-to-equity bridge. No accumulated future cash is added twice. Basic shares calculate market-cap weights; diluted proxy divides equity value.
 
-2:25-3:40: Run the known-answer and deliberate cash-corruption guard. Show the exact $1m gap and restore base. If you completed the personal locked test, show its actual precommit/hash and result; otherwise disclose that it is missing. Do not describe an agent's automatic test as your AI-off run.
+2:25-3:40: Run the known-answer and deliberate cash-corruption guard. Show the exact $1m gap and restore base. Personal test evidence is reserved for course review. Student reports a TA-approved exception. Do not describe an agent's automatic test as your AI-off run.
 
 3:40-4:25: Show cold-run-log.txt: fresh venv, no packages/network; numerical comparison within 1e-6 tolerance. Explain the first exact-JSON comparison's cross-runtime rounding difference and how it was diagnosed.
 

@@ -1,3 +1,6 @@
+# Public validation summary
+This public copy omits personal test records. It is not the complete course submission.
+
 # Validation and AI use
 Rohan Alwyn | FIN439 Project 1 | Prepared October 19, 2026
 
@@ -70,7 +73,7 @@ AMD/Broadcom are qualified because of AI compute/networking exposure, not just a
 At +/-5pp revenue growth versus +/-2pp margin, growth produces the larger value span. With growth narrowed to +/-1pp, its span is $10.55 versus $11.45 for margin, reversing the ranking. Sensitivity assigns no probabilities. A growth-only reverse DCF cannot reach the market inside the admitted +/-10pp domain; fixed base cash flows imply 9.32% WACC to match the $224.58 quote. Do not expand bounds solely to force a convenient answer.
 
 ## Locked Changed-Input Record
-NOT YET SUPPLIED. No completed student-authored locked prediction was located in the recovered Lab 11 evidence. A two-stage student-operated locked_test.py command has been prepared, but the agent has not executed its fresh scenario. Do not substitute the automated tests or a prediction written after seeing output. Preserve any actual record and update this section before freezing the final submission. Missing evidence remains disclosed if not completed.
+Student reports a TA-approved exception. Personal prediction and execution records are withheld from this public copy. The detailed validation record is reserved for the course submission. This public summary does not certify independent AI-off completion or constitute the complete grading package.
 
 ## Named AI-use register
 | Tool / date | Material contribution | Independent check / disposition |
@@ -79,7 +82,7 @@ NOT YET SUPPLIED. No completed student-authored locked prediction was located in
 | OpenAI Codex, October 19 | Recovered files, read assignment/professor clarification, organized package | Cross-checked Brightspace records and preserved local artifact hash; qualified baseline status. |
 | OpenAI Codex, October 19 | Built revised FCFF/stub/WACC/bridge and workbench | Source BS totals, hand-checkable FCFF identity, published fixture and deliberate errors support the correction. Old annual timing and basic-as-diluted interpretation corrected. |
 | OpenAI Codex, October 19 | Generated scenario/range/peer analyses, documents and recording preparation | Recomputed from exposed inputs; forecasts and judgment ranges require student review; comparison limitations retained. |
-| OpenAI Codex, October 19 | Prepared two-stage locked-test utility | Has not supplied a student prediction or claimed student execution. Actual record is reported only if present above. |
+| OpenAI Codex, October 19 | Prepared two-stage locked-test utility | Utility preparation was AI-assisted. Detailed personal evidence and its provenance are reserved for the course-only validation record. |
 
 The exposed tool identifies a GPT-6-based Codex agent; an exact backend model version is not independently exposed. Material AI assistance is disclosed here rather than repeated as labels throughout the memo. No source or output is accepted merely because a model agrees. The student remains responsible for understanding, reviewing, recording and defending the recommendation. No attendance, partner dialogue, AI-off authorship, on-time checkpoint, video, upload or receipt is invented.
 
